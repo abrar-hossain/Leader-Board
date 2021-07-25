@@ -1,0 +1,12 @@
+.fa-star
+{
+    font-size: 12px;
+}
+
+.fa-star.filled{
+    color: #ffc014;
+}
+.fa-star.empty
+{
+ color: #AEAEAE;
+}
